@@ -19,13 +19,13 @@ e listagens de compras.
 
 ## Desafio
 
-O desafio consiste em criar uma aplicação front-end que o usuário possa escolher
-os produtos e adicionar em uma cesta. A cesta não pode ser limpa ao fazer o reload
+O desafio consiste em criar uma aplicação front-end onde o usuário possa escolher
+os produtos e adicionar em uma cesta de compras. A cesta não pode ser limpa ao fazer o reload
 da página.
 
 ![home](images/home.png)
 
-Na página da cesta, deve ser obrigatório adicionar um nome para prosseguir com a compra,
+Na página da cesta deve ser obrigatório adicionar um nome para prosseguir com a compra,
 o usuário pode remover e mudar a quantidade de itens da cesta.
 
 ![home](images/cesta.png)
