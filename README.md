@@ -63,5 +63,5 @@ Esta página deve apenas listar as compras.
 - Gulp
 - Webpack
 
-A api para o test se encontra em [https://s-shop-test.herokuapp.com/](https://s-shop-test.herokuapp.com/)
-a documentação da api se encontra [aqui](https://s-shop-docs.netlify.com/).
+O ponto de entrada da API para o teste se encontra em [https://s-shop-test.herokuapp.com/](https://s-shop-test.herokuapp.com/)
+a documentação da API se encontra [aqui](https://s-shop-docs.netlify.com/).
