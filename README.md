@@ -1,4 +1,4 @@
-# Desafio front-end Seventh
+# Desafio front-end/AngularJS Seventh
 
 ## Introdução
 
