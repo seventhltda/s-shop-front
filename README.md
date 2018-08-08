@@ -1,4 +1,4 @@
-# Desafio front-end/AngularJS Seventh
+# Desafio front-end/AngularJS Seventh (Vaga D-Guard Web)
 
 ## Introdução
 
