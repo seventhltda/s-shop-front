@@ -51,7 +51,7 @@ Esta página deve apenas listar as compras.
 
 ### obrigátorias
 
-- AngularJS +v1.5.x (não confundir com Angular 2+)
+- AngularJS +v1.5.x
 
 ### Desejáveis
 
