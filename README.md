@@ -63,5 +63,11 @@ Esta página deve apenas listar as compras.
 - Gulp
 - Webpack
 
+### Backend
+
 O ponto de entrada da API para o teste se encontra em [https://s-shop-test.herokuapp.com/](https://s-shop-test.herokuapp.com/)
 a documentação da API se encontra [aqui](https://s-shop-docs.netlify.com/).
+
+### Entrega
+
+A submissão da proposta deve ser publicada em um repositório público no GitHub. O Link para o repositório deve ser enviado para rafael.castro@seventh.com.br
