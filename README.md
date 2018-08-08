@@ -70,4 +70,8 @@ a documentação da API se encontra [aqui](https://s-shop-docs.netlify.com/).
 
 ### Entrega
 
-A submissão da proposta deve ser publicada em um repositório público no GitHub. O Link para o repositório deve ser enviado para rafael.castro@seventh.com.br
+A submissão da proposta deve:
+- Ser publicada em um repositório público no GitHub. 
+- Conter um readme do projeto indicando instruções para a build e execução do projeto.
+- O Link para o repositório deve ser enviado para rafael.castro@seventh.com.br, acompanhado do CV do candidato. 
+
