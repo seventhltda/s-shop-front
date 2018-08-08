@@ -14,8 +14,8 @@ A capacidade do candidato em entregar um software funcional e com qualidade.
 
 ## Overview
 
-O s-shop é um site de compras, que possui um admin simples para cadastro de produtos
-e listagens de compras.
+O s-shop é um site de compras, que possui uma página administrativa simples para cadastro de produtos
+e listagem de compras.
 
 ## Desafio
 
@@ -51,11 +51,11 @@ Esta página deve apenas listar as compras.
 
 ### obrigátorias
 
-- Angular.js +v1.5.x
+- AngularJS +v1.5.x (não confundir com Angular 2+)
 
 ### Desejáveis
 
-- Angular.js Material para versão +1.x.x
+- AngularJS Material versão +1.x.x
 - scss para processador de css.
 
 ### Opcionais
