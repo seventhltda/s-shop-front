@@ -65,8 +65,8 @@ Esta página deve apenas listar as compras.
 
 ### Backend
 
-O ponto de entrada da API para o teste se encontra em [https://s-shop-test.herokuapp.com/](https://s-shop-test.herokuapp.com/)
-a documentação da API se encontra [aqui](https://s-shop-docs.netlify.com/).
+O ponto de entrada da API se encontra em [https://s-shop-test.herokuapp.com/](https://s-shop-test.herokuapp.com/)
+e a documentação da API se encontra [aqui](https://s-shop-docs.netlify.com/).
 
 ### Entrega
 
