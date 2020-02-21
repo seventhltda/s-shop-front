@@ -74,5 +74,5 @@ A submissão da proposta deve:
 - Ser publicada em um repositório público no GitHub. 
 - Conter um readme do projeto indicando instruções para a build e execução do projeto.
 - Ter no repositório do Git os commits incrementais da solução;
-- O Link para o repositório deve ser enviado para rafael.castro@seventh.com.br, acompanhado do CV do candidato. 
+- O Link para o repositório deve ser enviado para gabrielle.dias@seventh.com.br, acompanhado do CV do candidato. 
 
