@@ -55,10 +55,9 @@ Esta página deve apenas listar as compras.
 ### Opcionais
 - Webpack
 
-### Backend
+### Persistência de dados
 
-O ponto de entrada da API se encontra em [https://s-shop-test.herokuapp.com/](https://s-shop-test.herokuapp.com/)
-e a documentação da API se encontra [aqui](https://s-shop-docs.netlify.com/).
+os dados devem ser persistidos no [localStoge](https://developer.mozilla.org/pt-BR/docs/Web/API/Window/localStorage) do browser.
 
 ### Entrega
 
