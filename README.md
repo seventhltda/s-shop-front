@@ -51,9 +51,7 @@ Esta página deve apenas listar as compras.
 
 ### Desejáveis
 - React ou AngularJS
-
-### Opcionais
-- Webpack
+- Testes Unitários
 
 ### Persistência de dados
 
