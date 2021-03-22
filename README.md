@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento descreve um desafio técnico a ser elaborado pelo candidato à vaga de desenvolvedor front-end (AngularJS) na Seventh Ltda. O desafio consiste em desenvolver um front-end Web para uma API já existente de um sistema do tipo "carrinho de compras". 
+Esse documento descreve um desafio técnico a ser elaborado pelo candidato à vaga de desenvolvedor front-end na Seventh Ltda. O desafio consiste em desenvolver um front-end Web para uma API já existente de um sistema do tipo "carrinho de compras". 
 
 ## Duração
 
@@ -49,18 +49,10 @@ Esta página deve apenas listar as compras.
 
 ## Tecnologias
 
-### obrigátorias
-
-- AngularJS +v1.5.x
-
 ### Desejáveis
-
-- AngularJS Material versão +1.x.x
-- scss para processador de css.
+- React ou AngularJS
 
 ### Opcionais
-
-- Gulp
 - Webpack
 
 ### Backend
@@ -74,5 +66,5 @@ A submissão da proposta deve:
 - Ser publicada em um repositório público no GitHub. 
 - Conter um readme do projeto indicando instruções para a build e execução do projeto.
 - Ter no repositório do Git os commits incrementais da solução;
-- O Link para o repositório deve ser enviado para gabrielle.dias@seventh.com.br, acompanhado do CV do candidato. 
+- O Link para o repositório deve ser enviado para thais.rocha@seventh.com.br, acompanhado do CV do candidato. 
 
