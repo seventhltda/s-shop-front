@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Esse documento descreve um desafio técnico a ser elaborado pelo candidato à vaga de desenvolvedor front-end na Seventh Ltda. O desafio consiste em desenvolver um front-end Web para uma API já existente de um sistema do tipo "carrinho de compras". 
+Esse documento descreve um desafio técnico a ser elaborado pelo candidato à vaga de desenvolvedor front-end na Seventh Ltda. O desafio consiste em desenvolver um front-end Web  de um sistema do tipo "carrinho de compras". 
 
 ## Duração
 
